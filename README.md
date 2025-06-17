@@ -24,7 +24,7 @@ Os dados tratados são salvos em arquivos Excel e utilizados para análise no Po
 
 ## 📊 Power BI
 
-O arquivo `DashBoard.pbix` traz visualizações com base nos dados tratados, como:
+O arquivo `DashBoard` traz visualizações com base nos dados tratados, como:
 - Produtos vendidos por nota
 - Formas de pagamento
 - Distribuição por clientes ou localidades

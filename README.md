@@ -31,8 +31,3 @@ O arquivo `DashBoard.pbix` traz visualizações com base nos dados tratados, com
 
 
 ---
-
-## 📌 Observações
-
-- Os telefones dos clientes foram substituídos por `"REMOVIDO"` por questões de privacidade.
-- O código ignora linhas irrelevantes e limpa os endereços com expressões regulares específicas.

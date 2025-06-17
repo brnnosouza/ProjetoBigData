@@ -1,0 +1,16 @@
+
+__pycache__/
+*.pyc
+*.pkl
+*.log
+*.tmp
+*.DS_Store
+.env
+.vscode/
+.idea/
+*.bak
+*.old
+*.swp
+*.swo
+*.~
+*.pbix
